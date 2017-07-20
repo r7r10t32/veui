@@ -61,6 +61,7 @@ export function isEmpty (val) {
   return val == null || val === '' || (Array.isArray(val) && !val.length)
 }
 
+<<<<<<< HEAD
 /**
  * VUE 里面有三种设置 class 的方式：
  * 1. 字符串
