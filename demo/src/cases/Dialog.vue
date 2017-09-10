@@ -164,7 +164,13 @@ export default {
       operationDialogVisible: false,
       customTextTitleDialogVisible: false,
       customIconTitleDialogVisible: false,
+<<<<<<< HEAD
       contentAutoHeightDialogVisible: false,
+=======
+
+      contentAutoHeightDialogVisible: false,
+
+>>>>>>> lerna bootstrap 调整；对话框高级感 (#137)
       dynamicContent: '',
       test: '123'
     }
