@@ -164,13 +164,7 @@ export default {
       operationDialogVisible: false,
       customTextTitleDialogVisible: false,
       customIconTitleDialogVisible: false,
-<<<<<<< HEAD
       contentAutoHeightDialogVisible: false,
-=======
-
-      contentAutoHeightDialogVisible: false,
-
->>>>>>> lerna bootstrap 调整；对话框高级感 (#137)
       dynamicContent: '',
       test: '123'
     }
@@ -250,22 +244,11 @@ export default {
   .veui-button {
     margin-right: 10px;
   }
-<<<<<<< HEAD:packages/veui/demo/cases/Dialog.vue
   &-standard-dialog .veui-dialog-content {
     width: 540px;
     &-body {
       border: 1px dashed #999;
       height: 280px;
-=======
-
-  &-standard-dialog .veui-dialog-content {
-    width: 540px;
-
-    &-body {
-      border: 1px dashed #999;
-      height: 280px;
-
->>>>>>> 把 demo 拆出来 (#136):demo/src/cases/Dialog.vue
       p {
         color: #999;
         text-align: center;
