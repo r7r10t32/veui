@@ -7,8 +7,5 @@
   },
   "devDependencies": {
     "lerna": "^2.0.0-rc.5"
-  },
-  "dependencies": {
-    "wicg-focus-ring": "^2.0.1"
   }
 }
